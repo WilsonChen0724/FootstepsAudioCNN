@@ -1,4 +1,4 @@
-# Footstep Sound Classification with CNN
+# Footstep Sound Multiclass Classification with CNN
 
 本專案是一個使用 **TensorFlow** 實作卷積神經網路 (CNN) 來分類腳步聲的小型專題。  
 模型可辨識 **兩位不同人 ("瑋" 和 "媽")** 在 **三種不同鞋類/腳步狀況** 下的聲音類別。  
