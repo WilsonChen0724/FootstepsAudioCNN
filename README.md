@@ -6,7 +6,7 @@
 ## 專案內容
 
 - **資料增強程式碼**`Data Augmentation.ipynb`：包含對音檔進行增強處理的程式（這裡使用加入高斯噪音和增加音量兩種方式）。
-- **模型實作程式碼**‵Classification of which person and type of shoes.ipynb`：主要的程式碼，使用 TensorFlow 撰寫 CNN 模型，進行腳步聲分類。
+- **模型實作程式碼**`Classification of which person and type of shoes.ipynb`：主要的程式碼，使用 TensorFlow 撰寫 CNN 模型，進行腳步聲分類。
 - **音檔資料集**：
   - 每位人物在三種不同穿著/狀態下的 `.wav` 檔。
   - 資料增強後，每種類別各 **300 個音檔**。
